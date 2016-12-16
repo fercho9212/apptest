@@ -14,7 +14,7 @@
      </section>
 
      <footer style="text-align:center">
-       Fercho Jerez
+       Fercho Giovany jerez footer Jerez
      </footer>
 
      <script type="text/javascript" src="{{asset('plugins/bootstrap/js/bootstrap.js')}}"></script>
