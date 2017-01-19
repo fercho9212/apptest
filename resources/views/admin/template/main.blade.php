@@ -7,6 +7,7 @@
     <script type="text/javascript" src="{{asset('plugins/jquery/jquery-3.1.1.js')}}"></script>
   </head>
   <body>
+    http://stackoverflow.com/questions/38582169/php-laravel-restful-api-for-android-questions
     @include('admin.template.partilas.nav')
      <section>
        @include('flash::message');
